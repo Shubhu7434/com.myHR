@@ -9,3 +9,617 @@
 2025-12-02 12:19:18 INFO  - Display Balance After Select PL = 12
 2025-12-02 12:19:18 INFO  - Leave Details Table PL Leave Balance = 12
 2025-12-02 12:19:18 INFO  - After Select leave type Leave Balance Display Correct
+2025-12-04 10:19:13 INFO  - Stariting test : Login test
+2025-12-04 10:19:15 INFO  - Login Test Pass
+2025-12-04 10:19:24 INFO  - Display Balance After Select PL = 12
+2025-12-04 10:19:24 INFO  - Leave Details Table PL Leave Balance = 12
+2025-12-04 10:19:24 INFO  - After Select leave type Leave Balance Display Correct
+2025-12-04 10:24:27 INFO  - Stariting test : Login test
+2025-12-04 10:24:29 INFO  - Login Test Pass
+2025-12-04 10:32:38 INFO  - Stariting test : Login test
+2025-12-04 10:32:40 INFO  - Login Test Pass
+2025-12-04 10:34:10 INFO  - Stariting test : Login test
+2025-12-04 10:34:11 INFO  - Login Test Pass
+2025-12-04 10:35:33 INFO  - Stariting test : Login test
+2025-12-04 10:35:35 INFO  - Login Test Pass
+2025-12-04 10:40:39 INFO  - Stariting test : Login test
+2025-12-04 10:40:39 INFO  - Stariting test : Login test
+2025-12-04 10:40:42 INFO  - Login Test Pass
+2025-12-04 10:40:44 INFO  - Login Test Pass
+2025-12-04 10:46:13 INFO  - Stariting test : Login test
+2025-12-04 10:46:14 INFO  - Login Test Pass
+2025-12-04 10:46:26 INFO  - Display Balance After Select PL = 12
+2025-12-04 10:46:26 INFO  - Leave Details Table PL Leave Balance = 12
+2025-12-04 10:46:26 INFO  - After Select leave type Leave Balance Display Correct
+2025-12-04 15:16:38 INFO  - Stariting test : Login test
+2025-12-04 15:16:42 INFO  - Login Test Pass
+2025-12-04 15:23:59 INFO  - Display Balance After Select PL = 12
+2025-12-04 15:23:59 INFO  - Leave Details Table PL Leave Balance = 12
+2025-12-04 15:23:59 INFO  - After Select leave type Leave Balance Display Correct
+2025-12-04 15:24:07 INFO  - Stariting test : Login test
+2025-12-04 15:24:10 INFO  - Login Test Pass
+2025-12-04 15:30:30 INFO  - Display Balance After Select PL = 12
+2025-12-04 15:30:30 INFO  - Leave Details Table PL Leave Balance = 12
+2025-12-04 15:30:30 INFO  - After Select leave type Leave Balance Display Correct
+2025-12-04 15:30:34 INFO  - Stariting test : Login test
+2025-12-04 15:30:37 INFO  - Login Test Pass
+2025-12-04 15:39:22 INFO  - Display Balance After Select PL = 12
+2025-12-04 15:39:22 INFO  - Leave Details Table PL Leave Balance = 12
+2025-12-04 15:39:22 INFO  - After Select leave type Leave Balance Display Correct
+2025-12-04 15:59:25 DEBUG - suiteXmlPath: "C:\Users\Admin\eclipse-workspace\myHR\Paralleltestng.xml"
+2025-12-04 15:59:25 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 21 ms.
+2025-12-04 15:59:25 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 12 ms.
+2025-12-04 15:59:25 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-12-04 15:59:25 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-12-04 15:59:25 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 15:59:25 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 15:59:25 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 15:59:25 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 15:59:25 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 15:59:25 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 15:59:26 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 15:59:26 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 15:59:26 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 15:59:26 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 15:59:26 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 15:59:26 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 15:59:26 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 15:59:26 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 15:59:26 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 15:59:26 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 15:59:26 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-12-04 15:59:26 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 15:59:26 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 15:59:26 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 15:59:26 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-12-04 15:59:26 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 5 ms.
+2025-12-04 15:59:26 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 15:59:26 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 15:59:26 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-12-04 15:59:26 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 15:59:26 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 15:59:26 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 15:59:26 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2025-12-04 15:59:26 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 15:59:26 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 15:59:26 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 15:59:26 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 15:59:26 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 15:59:26 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 15:59:26 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 15:59:26 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 15:59:26 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 15:59:26 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 15:59:26 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 15:59:26 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 15:59:26 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 15:59:26 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 15:59:26 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 15:59:26 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 15:59:26 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 15:59:26 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 15:59:26 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 15:59:26 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 15:59:26 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 15:59:26 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 15:59:26 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2025-12-04 15:59:26 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 15:59:26 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 15:59:26 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 15:59:26 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 15:59:26 INFO  - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\myHR\Paralleltestng.xml
+
+2025-12-04 15:59:26 INFO  - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+2025-12-04 15:59:26 INFO  - [TestTaskExecutor] Starting executor test 2147483647 with time out: 2147483647 milliseconds.
+2025-12-04 15:59:36 INFO  - [Utils] DynamicGraphHelper.createDynamicGraph() took 0 ms.
+2025-12-04 15:59:36 INFO  - [TestTaskExecutor] Starting executor test 2147483647 with time out: 2147483647 milliseconds.
+2025-12-04 15:59:55 INFO  - Display Balance After Select PL = 12
+2025-12-04 15:59:55 INFO  - Leave Details Table PL Leave Balance = 12
+2025-12-04 15:59:55 INFO  - After Select leave type Leave Balance Display Correct
+2025-12-04 16:00:24 INFO  - [TestNG] Time taken by org.testng.reporters.jq.Main@1e54cb33: 393 ms
+2025-12-04 16:00:25 INFO  - [TestNG] Time taken by org.testng.reporters.FailedReporter@6f7e336b: 36 ms
+2025-12-04 16:00:25 INFO  - [TestNG] Time taken by org.testng.reporters.XMLReporter@6e57b5e9: 84 ms
+2025-12-04 16:00:25 INFO  - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@1a28aef1: 29 ms
+2025-12-04 16:00:25 INFO  - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@77c7ed8e: 18 ms
+2025-12-04 16:00:25 INFO  - [TestNG] Time taken by org.testng.internal.ExitCodeListener@453d496b: 0 ms
+2025-12-04 16:35:46 DEBUG - suiteXmlPath: "C:\Users\Admin\eclipse-workspace\myHR\Paralleltestng.xml"
+2025-12-04 16:35:47 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 14 ms.
+2025-12-04 16:35:47 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 16 ms.
+2025-12-04 16:35:47 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:35:47 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:35:47 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:35:47 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:35:47 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:35:47 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:35:47 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:35:47 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:35:47 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:35:47 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:35:47 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:35:47 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:35:47 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:35:47 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:35:47 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:35:47 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:35:47 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:35:47 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:35:47 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-12-04 16:35:47 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-12-04 16:35:47 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:35:47 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:35:47 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-12-04 16:35:47 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 7 ms.
+2025-12-04 16:35:47 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:35:47 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:35:47 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:35:47 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:35:47 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-12-04 16:35:47 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:35:47 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:35:47 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 12 ms.
+2025-12-04 16:35:47 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:35:47 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:35:47 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:35:47 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:35:47 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:35:47 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:35:47 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:35:47 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:35:47 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:35:47 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:35:47 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:35:47 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:35:47 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:35:47 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-12-04 16:35:47 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:35:47 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:35:47 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:35:47 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:35:47 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:35:47 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:35:47 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:35:47 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:35:47 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:35:47 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:35:47 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:35:47 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-12-04 16:35:47 INFO  - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\myHR\Paralleltestng.xml
+
+2025-12-04 16:35:48 INFO  - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+2025-12-04 16:35:48 INFO  - [TestTaskExecutor] Starting executor test 2147483647 with time out: 2147483647 milliseconds.
+2025-12-04 16:36:00 INFO  - [Utils] DynamicGraphHelper.createDynamicGraph() took 0 ms.
+2025-12-04 16:36:00 INFO  - [TestTaskExecutor] Starting executor test 2147483647 with time out: 2147483647 milliseconds.
+2025-12-04 16:36:17 INFO  - Display Balance After Select PL = 12
+2025-12-04 16:36:17 INFO  - Leave Details Table PL Leave Balance = 12
+2025-12-04 16:36:17 INFO  - After Select leave type Leave Balance Display Correct
+2025-12-04 16:36:38 INFO  - [TestNG] Time taken by org.testng.reporters.jq.Main@33cbfa57: 418 ms
+2025-12-04 16:36:38 INFO  - [TestNG] Time taken by org.testng.reporters.FailedReporter@3a2b2322: 21 ms
+2025-12-04 16:36:38 INFO  - [TestNG] Time taken by org.testng.reporters.XMLReporter@1abc9f14: 298 ms
+2025-12-04 16:36:38 INFO  - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@4647881c: 13 ms
+2025-12-04 16:36:38 INFO  - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@453d496b: 15 ms
+2025-12-04 16:36:38 INFO  - [TestNG] Time taken by org.testng.internal.ExitCodeListener@66bacdbc: 1 ms
+2025-12-04 16:38:55 DEBUG - suiteXmlPath: "C:\Users\Admin\eclipse-workspace\myHR\Paralleltestng.xml"
+2025-12-04 16:38:56 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 13 ms.
+2025-12-04 16:38:56 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 17 ms.
+2025-12-04 16:38:56 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:38:56 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:38:56 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:38:56 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:38:56 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:38:56 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:38:56 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:38:56 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:38:56 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:38:56 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:38:56 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:38:56 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:38:56 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:38:56 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:38:56 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:38:56 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:38:56 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:38:56 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:38:56 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:38:56 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:38:56 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:38:56 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:38:56 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:38:56 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 12 ms.
+2025-12-04 16:38:56 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:38:56 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:38:56 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:38:56 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:38:56 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:38:56 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:38:56 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:38:56 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:38:56 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:38:56 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:38:56 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:38:56 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:38:56 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:38:56 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:38:56 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:38:56 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:38:56 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:38:56 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:38:56 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:38:56 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:38:56 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:38:56 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:38:56 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:38:56 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:38:56 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:38:56 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:38:56 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:38:56 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:38:56 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:38:56 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-12-04 16:38:56 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:38:56 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:38:56 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:38:56 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:38:56 INFO  - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\myHR\Paralleltestng.xml
+
+2025-12-04 16:39:01 INFO  - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+2025-12-04 16:39:01 INFO  - [TestTaskExecutor] Starting executor test 2147483647 with time out: 2147483647 milliseconds.
+2025-12-04 16:39:15 INFO  - [Utils] DynamicGraphHelper.createDynamicGraph() took 0 ms.
+2025-12-04 16:39:15 INFO  - [TestTaskExecutor] Starting executor test 2147483647 with time out: 2147483647 milliseconds.
+2025-12-04 16:39:28 INFO  - Display Balance After Select PL = 12
+2025-12-04 16:39:28 INFO  - Leave Details Table PL Leave Balance = 12
+2025-12-04 16:39:28 INFO  - After Select leave type Leave Balance Display Correct
+2025-12-04 16:39:46 INFO  - [TestNG] Time taken by org.testng.reporters.jq.Main@1237e0be: 389 ms
+2025-12-04 16:39:47 INFO  - [TestNG] Time taken by org.testng.reporters.FailedReporter@1b29d52b: 38 ms
+2025-12-04 16:39:47 INFO  - [TestNG] Time taken by org.testng.reporters.XMLReporter@2a9bc08f: 67 ms
+2025-12-04 16:39:47 INFO  - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@4f82663e: 13 ms
+2025-12-04 16:39:47 INFO  - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@6a9b0a6f: 14 ms
+2025-12-04 16:39:47 INFO  - [TestNG] Time taken by org.testng.internal.ExitCodeListener@10667848: 0 ms
+2025-12-04 16:40:12 DEBUG - suiteXmlPath: "C:\Users\Admin\eclipse-workspace\myHR\Batchexecutiontestng.xml"
+2025-12-04 16:40:12 INFO  - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+2025-12-04 16:40:12 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 10 ms.
+2025-12-04 16:40:13 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 13 ms.
+2025-12-04 16:40:13 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:40:13 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:40:13 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:40:13 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:40:13 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:40:13 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:40:13 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:40:13 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:40:13 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:40:13 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:40:13 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:40:13 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:40:13 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:40:13 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:40:13 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:40:13 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:40:13 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:40:13 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:40:13 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:40:13 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:40:13 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:40:13 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:40:13 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:40:13 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:40:13 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:40:13 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:40:13 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:40:13 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:40:13 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:40:13 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:40:13 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:40:13 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:40:13 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:40:13 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:40:13 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:40:13 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:40:13 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:40:13 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:40:13 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:40:13 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:40:13 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:40:13 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:40:13 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:40:13 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:40:13 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:40:13 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:40:13 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:40:13 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:40:13 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:40:13 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:40:13 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:40:13 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:40:13 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:40:13 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:40:13 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:40:13 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:40:13 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:40:13 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:40:13 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2025-12-04 16:40:13 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 39 ms.
+2025-12-04 16:40:13 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:40:13 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:40:13 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2025-12-04 16:40:13 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 6 ms.
+2025-12-04 16:40:13 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:40:13 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:40:13 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:40:13 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-12-04 16:40:13 INFO  - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\myHR\Batchexecutiontestng.xml
+
+2025-12-04 16:40:13 INFO  - [Utils] DynamicGraphHelper.createDynamicGraph() took 10 ms.
+2025-12-04 16:40:26 INFO  - Stariting test : Login test
+2025-12-04 16:40:29 INFO  - Login Test Pass
+2025-12-04 16:40:40 INFO  - Display Balance After Select PL = 12
+2025-12-04 16:40:40 INFO  - Leave Details Table PL Leave Balance = 12
+2025-12-04 16:40:40 INFO  - After Select leave type Leave Balance Display Correct
+2025-12-04 16:40:53 DEBUG - Using WebDriverManager 5.8.0
+2025-12-04 16:40:54 DEBUG - Removing resolution chrome=142 from cache (expired on 2025-12-04T16:30:13.000+0530)
+2025-12-04 16:40:54 DEBUG - ex-0000000001 preparing request execution
+2025-12-04 16:40:54 DEBUG - ex-0000000001 target auth state: UNCHALLENGED
+2025-12-04 16:40:54 DEBUG - ex-0000000001 proxy auth state: UNCHALLENGED
+2025-12-04 16:40:54 DEBUG - ex-0000000001 acquiring connection with route {s}->https://raw.githubusercontent.com:443
+2025-12-04 16:40:54 DEBUG - ex-0000000001 acquiring endpoint (3 MINUTES)
+2025-12-04 16:40:54 DEBUG - ex-0000000001 endpoint lease request (3 MINUTES) [route: {s}->https://raw.githubusercontent.com:443][total available: 0; route allocated: 0 of 5; total allocated: 0 of 25]
+2025-12-04 16:40:54 DEBUG - ex-0000000001 endpoint leased [route: {s}->https://raw.githubusercontent.com:443][total available: 0; route allocated: 1 of 5; total allocated: 1 of 25]
+2025-12-04 16:40:54 DEBUG - ex-0000000001 acquired ep-0000000001
+2025-12-04 16:40:54 DEBUG - ex-0000000001 acquired endpoint ep-0000000001
+2025-12-04 16:40:54 DEBUG - ex-0000000001 opening connection {s}->https://raw.githubusercontent.com:443
+2025-12-04 16:40:54 DEBUG - ep-0000000001 connecting endpoint (null)
+2025-12-04 16:40:54 DEBUG - ep-0000000001 connecting endpoint to https://raw.githubusercontent.com:443 (30 SECONDS)
+2025-12-04 16:40:54 DEBUG - raw.githubusercontent.com resolving remote address
+2025-12-04 16:40:54 DEBUG - raw.githubusercontent.com resolved to [raw.githubusercontent.com/185.199.108.133, raw.githubusercontent.com/185.199.109.133, raw.githubusercontent.com/185.199.110.133, raw.githubusercontent.com/185.199.111.133]
+2025-12-04 16:40:54 DEBUG - raw.githubusercontent.com:443 connecting null->raw.githubusercontent.com/185.199.108.133:443 (30 SECONDS)
+2025-12-04 16:40:54 DEBUG - Connecting socket to raw.githubusercontent.com/185.199.108.133:443 with timeout 30 SECONDS
+2025-12-04 16:40:54 DEBUG - Enabled protocols: [TLSv1.3, TLSv1.2]
+2025-12-04 16:40:54 DEBUG - Enabled cipher suites: [TLS_AES_256_GCM_SHA384, TLS_AES_128_GCM_SHA256, TLS_CHACHA20_POLY1305_SHA256, TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_RSA_WITH_CHACHA20_POLY1305_SHA256, TLS_DHE_DSS_WITH_AES_256_GCM_SHA384, TLS_DHE_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_DSS_WITH_AES_128_GCM_SHA256, TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_RSA_WITH_AES_256_CBC_SHA256, TLS_DHE_DSS_WITH_AES_256_CBC_SHA256, TLS_DHE_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_DSS_WITH_AES_128_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_DSS_WITH_AES_256_CBC_SHA, TLS_DHE_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_DSS_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_GCM_SHA384, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_256_CBC_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA256, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_EMPTY_RENEGOTIATION_INFO_SCSV]
+2025-12-04 16:40:54 DEBUG - Starting handshake (null)
+2025-12-04 16:40:55 DEBUG - Secure session established
+2025-12-04 16:40:55 DEBUG -  negotiated protocol: TLSv1.3
+2025-12-04 16:40:55 DEBUG -  negotiated cipher suite: TLS_AES_128_GCM_SHA256
+2025-12-04 16:40:55 DEBUG -  peer principal: CN=*.github.io
+2025-12-04 16:40:55 DEBUG -  peer alternative names: [*.github.io, *.github.com, *.githubusercontent.com, github.com, github.io, githubusercontent.com, www.github.com]
+2025-12-04 16:40:55 DEBUG -  issuer principal: CN=Sectigo RSA Domain Validation Secure Server CA, O=Sectigo Limited, L=Salford, ST=Greater Manchester, C=GB
+2025-12-04 16:40:55 DEBUG - http-outgoing-0 set socket timeout to 3 MINUTES
+2025-12-04 16:40:55 DEBUG - raw.githubusercontent.com:443 connected null->raw.githubusercontent.com/185.199.108.133:443 as http-outgoing-0
+2025-12-04 16:40:55 DEBUG - ep-0000000001 connected http-outgoing-0
+2025-12-04 16:40:55 DEBUG - ep-0000000001 endpoint connected
+2025-12-04 16:40:55 DEBUG - ex-0000000001 executing GET /bonigarcia/webdrivermanager/master/src/main/resources/commands.properties HTTP/1.1
+2025-12-04 16:40:55 DEBUG - ex-0000000001 Cookie spec selected: strict
+2025-12-04 16:40:55 DEBUG - ep-0000000001 start execution ex-0000000001
+2025-12-04 16:40:55 DEBUG - ep-0000000001 executing exchange ex-0000000001 over http-outgoing-0
+2025-12-04 16:40:55 DEBUG - http-outgoing-0 >> GET /bonigarcia/webdrivermanager/master/src/main/resources/commands.properties HTTP/1.1
+2025-12-04 16:40:55 DEBUG - http-outgoing-0 >> user-agent: Apache-HttpClient/5.0
+2025-12-04 16:40:55 DEBUG - http-outgoing-0 >> accept-encoding: gzip, deflate, br
+2025-12-04 16:40:55 DEBUG - http-outgoing-0 >> cache-control: max-age=0
+2025-12-04 16:40:55 DEBUG - http-outgoing-0 >> connection: keep-alive
+2025-12-04 16:40:55 DEBUG - http-outgoing-0 >> Host: raw.githubusercontent.com
+2025-12-04 16:40:55 DEBUG - http-outgoing-0 >> "GET /bonigarcia/webdrivermanager/master/src/main/resources/commands.properties HTTP/1.1[\r][\n]"
+2025-12-04 16:40:55 DEBUG - http-outgoing-0 >> "user-agent: Apache-HttpClient/5.0[\r][\n]"
+2025-12-04 16:40:55 DEBUG - http-outgoing-0 >> "accept-encoding: gzip, deflate, br[\r][\n]"
+2025-12-04 16:40:55 DEBUG - http-outgoing-0 >> "cache-control: max-age=0[\r][\n]"
+2025-12-04 16:40:55 DEBUG - http-outgoing-0 >> "connection: keep-alive[\r][\n]"
+2025-12-04 16:40:55 DEBUG - http-outgoing-0 >> "Host: raw.githubusercontent.com[\r][\n]"
+2025-12-04 16:40:55 DEBUG - http-outgoing-0 >> "[\r][\n]"
+2025-12-04 16:40:55 DEBUG - http-outgoing-0 << "HTTP/1.1 200 OK[\r][\n]"
+2025-12-04 16:40:55 DEBUG - http-outgoing-0 << "Connection: keep-alive[\r][\n]"
+2025-12-04 16:40:55 DEBUG - http-outgoing-0 << "Content-Length: 946[\r][\n]"
+2025-12-04 16:40:55 DEBUG - http-outgoing-0 << "Cache-Control: max-age=300[\r][\n]"
+2025-12-04 16:40:55 DEBUG - http-outgoing-0 << "Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox[\r][\n]"
+2025-12-04 16:40:55 DEBUG - http-outgoing-0 << "Content-Type: text/plain; charset=utf-8[\r][\n]"
+2025-12-04 16:40:55 DEBUG - http-outgoing-0 << "ETag: W/"dc0c32cea2dfa86f6cf10513cf8a64e1e8817484a415b658b4eecd962d4deaee"[\r][\n]"
+2025-12-04 16:40:55 DEBUG - http-outgoing-0 << "Strict-Transport-Security: max-age=31536000[\r][\n]"
+2025-12-04 16:40:55 DEBUG - http-outgoing-0 << "X-Content-Type-Options: nosniff[\r][\n]"
+2025-12-04 16:40:55 DEBUG - http-outgoing-0 << "X-Frame-Options: deny[\r][\n]"
+2025-12-04 16:40:55 DEBUG - http-outgoing-0 << "X-XSS-Protection: 1; mode=block[\r][\n]"
+2025-12-04 16:40:55 DEBUG - http-outgoing-0 << "X-GitHub-Request-Id: FBA8:11D690:24EA38:4915B4:691CE676[\r][\n]"
+2025-12-04 16:40:55 DEBUG - http-outgoing-0 << "Content-Encoding: gzip[\r][\n]"
+2025-12-04 16:40:55 DEBUG - http-outgoing-0 << "Accept-Ranges: bytes[\r][\n]"
+2025-12-04 16:40:55 DEBUG - http-outgoing-0 << "Date: Thu, 04 Dec 2025 11:10:55 GMT[\r][\n]"
+2025-12-04 16:40:55 DEBUG - http-outgoing-0 << "Via: 1.1 varnish[\r][\n]"
+2025-12-04 16:40:55 DEBUG - http-outgoing-0 << "X-Served-By: cache-bom-vanm7210048-BOM[\r][\n]"
+2025-12-04 16:40:55 DEBUG - http-outgoing-0 << "X-Cache: HIT[\r][\n]"
+2025-12-04 16:40:55 DEBUG - http-outgoing-0 << "X-Cache-Hits: 1[\r][\n]"
+2025-12-04 16:40:55 DEBUG - http-outgoing-0 << "X-Timer: S1764846656.932674,VS0,VE1[\r][\n]"
+2025-12-04 16:40:55 DEBUG - http-outgoing-0 << "Vary: Authorization,Accept-Encoding[\r][\n]"
+2025-12-04 16:40:55 DEBUG - http-outgoing-0 << "Access-Control-Allow-Origin: *[\r][\n]"
+2025-12-04 16:40:55 DEBUG - http-outgoing-0 << "Cross-Origin-Resource-Policy: cross-origin[\r][\n]"
+2025-12-04 16:40:55 DEBUG - http-outgoing-0 << "X-Fastly-Request-ID: 694df8793a668acc22f5d2953672189345e991a6[\r][\n]"
+2025-12-04 16:40:55 DEBUG - http-outgoing-0 << "Expires: Thu, 04 Dec 2025 11:15:55 GMT[\r][\n]"
+2025-12-04 16:40:55 DEBUG - http-outgoing-0 << "Source-Age: 57[\r][\n]"
+2025-12-04 16:40:55 DEBUG - http-outgoing-0 << "[\r][\n]"
+2025-12-04 16:40:55 DEBUG - http-outgoing-0 << HTTP/1.1 200 OK
+2025-12-04 16:40:55 DEBUG - http-outgoing-0 << Connection: keep-alive
+2025-12-04 16:40:55 DEBUG - http-outgoing-0 << Content-Length: 946
+2025-12-04 16:40:55 DEBUG - http-outgoing-0 << Cache-Control: max-age=300
+2025-12-04 16:40:55 DEBUG - http-outgoing-0 << Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+2025-12-04 16:40:55 DEBUG - http-outgoing-0 << Content-Type: text/plain; charset=utf-8
+2025-12-04 16:40:55 DEBUG - http-outgoing-0 << ETag: W/"dc0c32cea2dfa86f6cf10513cf8a64e1e8817484a415b658b4eecd962d4deaee"
+2025-12-04 16:40:55 DEBUG - http-outgoing-0 << Strict-Transport-Security: max-age=31536000
+2025-12-04 16:40:55 DEBUG - http-outgoing-0 << X-Content-Type-Options: nosniff
+2025-12-04 16:40:55 DEBUG - http-outgoing-0 << X-Frame-Options: deny
+2025-12-04 16:40:55 DEBUG - http-outgoing-0 << X-XSS-Protection: 1; mode=block
+2025-12-04 16:40:55 DEBUG - http-outgoing-0 << X-GitHub-Request-Id: FBA8:11D690:24EA38:4915B4:691CE676
+2025-12-04 16:40:55 DEBUG - http-outgoing-0 << Content-Encoding: gzip
+2025-12-04 16:40:55 DEBUG - http-outgoing-0 << Accept-Ranges: bytes
+2025-12-04 16:40:55 DEBUG - http-outgoing-0 << Date: Thu, 04 Dec 2025 11:10:55 GMT
+2025-12-04 16:40:55 DEBUG - http-outgoing-0 << Via: 1.1 varnish
+2025-12-04 16:40:55 DEBUG - http-outgoing-0 << X-Served-By: cache-bom-vanm7210048-BOM
+2025-12-04 16:40:55 DEBUG - http-outgoing-0 << X-Cache: HIT
+2025-12-04 16:40:55 DEBUG - http-outgoing-0 << X-Cache-Hits: 1
+2025-12-04 16:40:55 DEBUG - http-outgoing-0 << X-Timer: S1764846656.932674,VS0,VE1
+2025-12-04 16:40:55 DEBUG - http-outgoing-0 << Vary: Authorization,Accept-Encoding
+2025-12-04 16:40:55 DEBUG - http-outgoing-0 << Access-Control-Allow-Origin: *
+2025-12-04 16:40:55 DEBUG - http-outgoing-0 << Cross-Origin-Resource-Policy: cross-origin
+2025-12-04 16:40:55 DEBUG - http-outgoing-0 << X-Fastly-Request-ID: 694df8793a668acc22f5d2953672189345e991a6
+2025-12-04 16:40:55 DEBUG - http-outgoing-0 << Expires: Thu, 04 Dec 2025 11:15:55 GMT
+2025-12-04 16:40:55 DEBUG - http-outgoing-0 << Source-Age: 57
+2025-12-04 16:40:55 DEBUG - ex-0000000001 connection can be kept alive for 3 MINUTES
+2025-12-04 16:40:55 DEBUG - http-outgoing-0 << "[0x1f][0xffffff8b][0x8][0x0][0x0][0x0][0x0][0x0][0x0][0x3][0xffffffb5]X[0xffffffd1]n[0xffffffda]0[0x14]}[0xffffffe7]+,[0xffffffba]J [0x11][0xffffffb2][0x1][0xffffffeb][0xffffffaa]Jy[0xffffffa0][0x19]e[0xffffffd5][0xffffffa8]`[0xffffffd0]v[0xffffff9b][0xffffffe4][0x17][0xffffff93]8`)[0xffffff89]Q[0xffffff9c]@[0xffffffb7][0xffffffa9][0xfffffffb][0xfffffff6]9NB[0xffffffe3]$[0xc]H[0xffffffe0][0xffffffad][0xffffff8e][0xffffff8f][0xffffffef]97[0xffffffdc]s}[0xffffffd3][0xb][0xffffffa0]S[0xffffffc7]A[0xffffffae][0xffffffc9][0xffffff80][0xffffff89]|4G[0xc][0xffffffd7].[0xffffffc0][0xffffffe3][0xffffff92]0`[0x11][0x1b][0x3][0xffffff83][0xffffffba]>".[0x3][0xfffffffe]2\[0xffffffc4]P[0xffffff9f][0xffffff82]9[0x6][0xfffffff8][0x5][0x1b][0xffffff81][0xffffff8f]M@\[0xffffffb1][0xffffffcd][0xffffff96][0xffffffd8][0xffffffb6][0xffffffc3][0x5][0xfffffff5]L[0xffffffec][0xffffff85] [0x13][0xfffffffb][0xffffffd8][0xfffffff0][0xffffffc5][0xffffffe6][0x1a]{[0xffffff8c]P[0xffffffbe]g[0x1][0xffffffcc][0xffffffff]^x[0x18][0xffffffbb]`[0xffffffee][0xffffffd1][\r][0xffffffe3][0x1b][0xffffff9c][0xffffffb2][0xffffffa1]/=[0xffffffea][0xffffffe0][0x16][0xffffffb8]#[0x1e][0xffffffb6][0xffffffe8]K[0xb][0xffffff8c]W[0xffffffd8]C-00[0x17][0xfffffffc][0xffffffa9][0xffffffd8]%[0xffffff81][0xffffffd3][0xc][0xffffffe3][0xffffff9b][0xffffffc4][0xffffffb2][0xffffffb0][0xffffff87]][0x1f][0xffffffd0][0x10][0xffffffe3][0x13]w[0x1][0xffffffd8]/[0xffffffe6]c[0xffffff87][0xffffff81][0xffffffc6]w[0xffffffe2][0xffffff9a]<j[0xb][0xffffff8c][0xffffff88][0x1b][0xfffffff0]0[0xf][0xffffffc8][0x0][0xffffffe3]Y[0xffffffb3][0xffffffc6]9"[0xffffff8a]Z[0xffffff9c]F[0xffffffdb][0x10][0xffffffcb][0xfffffff6]&:[0xffffffd0]~[0xffffffff]A3[0x1c][0xffffffb3][0xffffffcd][0xffffffb3][0x2][0xffffffaa][0xe]6[0xe]1[0xffffffc4]+[0x11][0xffffffaf]a[0xffffffb3][0xffffffe4]|[0xffffffc0]E[0xe][0xffffffd6][0xffffffea][0xffffff97][0xffffff93][0xffffffe9]x8[0xffffffed]?[0xffffffdc][0xffffffdd][0xffffff8f][0x6][0xffffffb3][0x1b][0xffffffa8]Ax[0x9][0xffffffe1][0xffffff90][0xffffffd2][0xffffff85][0xffffff8d]![0xffffff8c]( [0xffffffec][0xffffffaf]V61[0xffffffb8]4[0xffffffea]B[0x18][0x13][0xfffffff1][0xffffffc8]u[0xffffffb0][0xffffffc0]>x[0xffffff8e][0xffffffdf][0xffffff85][0xffffffba]Fv[0xffffffb0][O[0xffffffa7][0xffffff84][0xffffff9e][0xffffffc6][0xffffff8f][0xffffffeb][0xffffffab][0xffffffe6]9Eu[0xf][0x14]5[0x1a][0xffffffeb][0xfffffffd]Q[0x7f]2[0xfffffff9][0xffffffdc][0x7f][0xffffffec][0xffffff9f]SOO[0xffffff9b][0xe][0xffffff86][0xffffffe0][0xffffffdb][0xffffffd3]`[0xfffffffa][0x13]|[0xfffffff9][0xffffffaa]?[0xffffffc1][0x19][0xffffffb5][0xfffffffc][\r][0xfffffff2]p[0xffffffc2][0x16][0xffffff93][0xffffffdd][0xffffff8e]n12D[0xffffffbc][0xffffffa4][0x16]w[0xffffffc6][0xfffffffc][0xffffffa8][0xffffffad][0xffffffe8][0xffffff86]c[0xffffffc2]z[0x16][0xffffffa9]*[0xffffffb1]I@c[0xffffff88]}[0xffffffe5][0xffffff9e][0x17][0x1a][0xffffffa8][0xffffffbf][0xfffffffb][0xffffff83][0xffffffdd][0xfffffff5]M:[0xffffffcd][0xffffffd7][0xc]e:[0xffffffbd]Tv[0xffffffcd]v[0xffffff9c][0xffffffda][0xffffffbd]k[0xffffffd1][0xfffffff6][0xffffffc4][0xffffffa3]f`[0xfffffff8][0xffffffcf]{$][0x1d].)W[0xe][0xffffffe7][0xffffffd4][0xfffffff5][0xffffffa9][0xffffff9c][0xffffffae]SH[0xffffffca]j[0xffffffb2]C[0xffffffbf][0xffffff87].V[0x3][0xffffffe6][0xffffffa9]s[0xffffffe2][0xffffffaa][0xb][0xffffffc1][0xffffffa1]D[0xfffffffb]@Qv[0xfffffffc][0xffffffee][0xfffffff1][0xffffffc1][0xffffff8e][0xffffffb6][0xb][0xffffff9f]=[0xffffffe0] C[0xfffffff0][0xffffffa4]T35J([0xffffffee]1m[0xffffffb4]Z[0xffffffa9]:[0xffffffef][0xffffff9d][0xffffffbc]I1[0xffffff95][0xffffffb7][0xffffffa0][0xfffffff1]L[0x6][0xffffffa4][0xffffffa3][0xfffffff3][0xffffffce][0x14]7[0xffffffbd]-[0xffffff91][0x15][0xffffffad]O[0xffffffd3][0xffffff9b][0x1e][0xffffffe8]ob[0xffffffdb](![0xffffff81]0[0xffffff89][0xffffffbe][0xffffffcf]k9[0x15][0xffffff95];[0xffffffd2][0xffffffe9][0xffffffa4]tS[0xffffffbe][0xffffffaf][0xffffffcb][0xffffffc6][0xffffff8f]I[0xffffffb2]d[0xfffffff5][0xffffffd0][0xfffffffa]z[0xffffffe0][0xffffff85][0x17]G[0xffffffb6][0xffffffac]s[0xffffffe1]{[0xffffff95][0xfffffffc][0x16]1[0xffffffff][0xfffffffd] [0xffffffa5]w[0xffffff90][0xffffffbf]rB[0xffffff8e][0xffffffe8]E[0xffffffb2][0xffffffc1][0xffffff8e][0xffffffd7][0xffffff90][0x13][0xffffff91]wT[0xffffffbc][0x3][0xffffff94][0xfffffff5].pGKar[0xffffffa0]B[0xffffffe7][0xffffffc4][0xffffffbf]O[0xffffff91]g[0xffffffd2][0xffffffb1][0xffffffb8]M[0xffffffc2]Y`[0x1b][0x13][0xfffffff3]E5[0xffffff83][0xffffffc8][0xffffffa5]I[0xc][0xffffff8f]2^C[0x10][0xffffff86]4[0xffffff99][0xffffffdb][0xffffffc9]a[0xffffff82]n_[0xffffff99][0xffffffca][0xffffff9a][0xffffffca][0xffffffd8][0xffffffe5][0xffffff8c]r[0xffffffba];[0xffffffaf][0xffffffca]72[0xffffffc1][0xfffffff5][0xffffffbf][0xffffffbb]R[0xe]Y[0xffffffd2]&[0xffffffaf]Y[0xffffffc6]tr[0xffffffa9][0xffffffdc][0xe][0xffffffb2][0xffffff8c][0xffffffac][0xffffffa8][0xffffffa4]_[0x12][0xffffffe3]V[0xffffff97]U[0xffffff93][0xffffff85][0xffffffe5]=[0xffffffe4]$[0x1c]J[0x8]([0xffffffb8][0xffffff96][0xffffffd2][0xffffffe7]:[0xffffffda]N[0xffffffb8][0xffffff8c]/t[0xffffffd6]6[0x1d][0xffffffe1][0xffffff9c]"[0xffffff83][0xffffffc9][0x8] ]Jb[0x0][0xffffffdf][0xffffffb2][0xffffff88]Q[0xfffffffb]x[0xffffffbf][0x15][0xffffffcd][0xffffff81][0xfffffffc][0xffffff8d]-<[0xffffffe4]0[0x8][0x5][0x5][0xffffff84]Q[0xffffffec]}[0xffffffd5][0xffffff9c]QP[0xffffffc5]][0xffffffa7]QPe[0x16][0xffffff8e]ym[0x14][0xffffffb8][0x6][0xffffffc7][0x1e]K[0xffffffdd][0xffffffab][0xffffff90]|E[0xffffffea][0xffffffd2]7R[0xffffffc4]+[0xffffffd1][0x1e]d[0xfffffff0][0xc][0xffffffff][0x11][0xffffffa3][0xffffffb0]<[0xffffff9d][0xffffff9f][0xffffff88][0xffffffbf][0xfffffff4][0xffffffc8][0xffffffbb]-[0xffffffba]H[0xffffffc8][[0xffffffc9][0xffffff95]Qq][0xfffffff6]-[0xffffff94]S[0xffffff91][0xffffff91][0xffffff91][0xffffffef]j[0xffffffe2]yA3[0xffffff93][0xfffffff0][0x1d]-[0xb][0xffffffcb][0xffffffe0][\n]"
+2025-12-04 16:40:55 DEBUG - http-outgoing-0 << "[0xffffffbb][0xffffff98][0x10]Z[0xffffffd4][0xffffffbc][0xffffffc6][0xffffffd9]`[0xffffffc9]7>[0x9][0x1c]yf[0xffffffe7][0xf]N[0xffffffd3][0xffffffba][0xffffff92][0xfffffff0][0x15]>^%-[0xffffff95]'[0xffffffea]S[0xb]:[0xffffffb4][0xffffffa7][0x15]5[0xffffff96]Sk)=]l[0xffffff85]T[0xfffffffe][0xffffffd4][0xffffff95][0xfffffff4]T[0xffffff9b]-[0xffffffce]$[0xffffffaa]t;[0xffffffac][0xffffffa4]'/([0xffffffdf][0x12][0xffffff92]-%[0xfffffffe]7[0xffffffdf][0xffffffae]/[0xfffffff0][0xffffffd4]in[0xffffff87][0xffffffe3][0xf]u[0xfffffff3][0xffffff94][0x7][0xffffff9c][0xffffffea]i[0x5][0xffffffe0]<[0xffffffba][0xffffffb0]#%[0xffffffaf][0xffffffae][0xffffffa8])[0xffffffe9][0x5]Q/[0xffffffc0][0xc]Y[0xffffffc8]#[0xffffffdb][0xfffffff0]L,[0xffffff8b][0xffffff83]G[0xffffffd0][0xffffffa2][0xffffffd0][0xffffffd1]N*[0xfffffff0]?l[0x1d]d@[0xffffffbe][0x15][0x0][0x0]"
+2025-12-04 16:40:55 DEBUG - ep-0000000001 releasing valid endpoint
+2025-12-04 16:40:55 DEBUG - ep-0000000001 releasing endpoint
+2025-12-04 16:40:55 DEBUG - ep-0000000001 connection http-outgoing-0 can be kept alive for 3 MINUTES
+2025-12-04 16:40:55 DEBUG - ep-0000000001 connection released [route: {s}->https://raw.githubusercontent.com:443][total available: 1; route allocated: 1 of 5; total allocated: 1 of 25]
+2025-12-04 16:40:55 DEBUG - Detecting chrome version using online commands.properties
+2025-12-04 16:40:55 DEBUG - Running command on the shell: [cmd.exe, /C, wmic, datafile, where, name="%PROGRAMFILES:\=\\%\\Google\\Chrome\\Application\\chrome.exe", get, Version, /value]
+2025-12-04 16:40:55 DEBUG - Result: Version=142.0.7444.176
+2025-12-04 16:40:55 DEBUG - Resolution chrome142=142.0.7444.175 in cache (valid until 15:30:13 05/12/2025 IST)
+2025-12-04 16:40:55 INFO  - Using chromedriver 142.0.7444.175 (resolved driver for Chrome 142)
+2025-12-04 16:40:55 DEBUG - Storing resolution chrome=142 in cache (valid until 17:40:55 04/12/2025 IST)
+2025-12-04 16:40:55 DEBUG - Driver chromedriver 142.0.7444.175 found in cache
+2025-12-04 16:40:55 INFO  - Exporting webdriver.chrome.driver as C:\Users\Admin\.cache\selenium\chromedriver\win64\142.0.7444.175\chromedriver.exe
+2025-12-04 16:41:07 INFO  - [TestNG] Time taken by org.testng.reporters.jq.Main@14ed7ddf: 282 ms
+2025-12-04 16:41:07 INFO  - [TestNG] Time taken by org.testng.reporters.FailedReporter@6e2eead5: 1 ms
+2025-12-04 16:41:07 INFO  - [TestNG] Time taken by org.testng.reporters.XMLReporter@6e068ac9: 36 ms
+2025-12-04 16:41:07 INFO  - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@64f32e9e: 17 ms
+2025-12-04 16:41:07 INFO  - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@8ac12e6: 40 ms
+2025-12-04 16:41:07 INFO  - [TestNG] Time taken by org.testng.internal.ExitCodeListener@40faff12: 1 ms
+2025-12-04 16:42:13 DEBUG - suiteXmlPath: "C:\Users\Admin\eclipse-workspace\myHR\Paralleltestng.xml"
+2025-12-04 16:42:13 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 8 ms.
+2025-12-04 16:42:13 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 12 ms.
+2025-12-04 16:42:13 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:42:13 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-12-04 16:42:13 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:42:13 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:42:13 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:42:13 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:42:13 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:42:13 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:42:13 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:42:13 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:42:13 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:42:13 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:42:13 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:42:13 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:42:13 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:42:13 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:42:13 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:42:13 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:42:13 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:42:13 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:42:13 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:42:13 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:42:13 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:42:13 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 11 ms.
+2025-12-04 16:42:13 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:42:13 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:42:13 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:42:13 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-12-04 16:42:13 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:42:13 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-12-04 16:42:13 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:42:13 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2025-12-04 16:42:13 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:42:13 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:42:13 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:42:13 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:42:13 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:42:13 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:42:13 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:42:13 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:42:13 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:42:13 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:42:13 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:42:13 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:42:13 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:42:13 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:42:13 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:42:13 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:42:13 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:42:13 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-12-04 16:42:13 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:42:13 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:42:13 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:42:13 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-12-04 16:42:13 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:42:13 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:42:13 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 16:42:13 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 16:42:13 INFO  - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\myHR\Paralleltestng.xml
+
+2025-12-04 16:42:14 INFO  - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+2025-12-04 16:42:14 INFO  - [TestTaskExecutor] Starting executor test 2147483647 with time out: 2147483647 milliseconds.
+2025-12-04 16:42:25 INFO  - [Utils] DynamicGraphHelper.createDynamicGraph() took 1 ms.
+2025-12-04 16:42:25 INFO  - [TestTaskExecutor] Starting executor test 2147483647 with time out: 2147483647 milliseconds.
+2025-12-04 16:42:29 INFO  - [TestNG] Time taken by org.testng.reporters.jq.Main@2e16b08d: 228 ms
+2025-12-04 16:42:29 INFO  - [TestNG] Time taken by org.testng.reporters.FailedReporter@2d140a7: 60 ms
+2025-12-04 16:42:29 INFO  - [TestNG] Time taken by org.testng.reporters.XMLReporter@415e0bcb: 47 ms
+2025-12-04 16:42:29 INFO  - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@43d455c9: 10 ms
+2025-12-04 16:42:29 INFO  - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@55caeb35: 19 ms
+2025-12-04 16:42:29 INFO  - [TestNG] Time taken by org.testng.internal.ExitCodeListener@6d868997: 0 ms
+2025-12-04 16:47:43 DEBUG - suiteXmlPath: "C:\Users\Admin\eclipse-workspace\myHR\Paralleltestng.xml"
+2025-12-04 16:47:43 INFO  - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\myHR\Paralleltestng.xml
+
+2025-12-04 16:48:07 INFO  - Display Balance After Select PL = 12
+2025-12-04 16:48:07 INFO  - Leave Details Table PL Leave Balance = 12
+2025-12-04 16:48:07 INFO  - After Select leave type Leave Balance Display Correct
+2025-12-04 16:52:34 DEBUG - suiteXmlPath: "C:\Users\Admin\eclipse-workspace\myHR\Paralleltestng.xml"
+2025-12-04 16:52:35 INFO  - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\myHR\Paralleltestng.xml
+
+2025-12-04 16:53:12 INFO  - Display Balance After Select PL = 12
+2025-12-04 16:53:12 INFO  - Leave Details Table PL Leave Balance = 12
+2025-12-04 16:53:12 INFO  - After Select leave type Leave Balance Display Correct
+2025-12-04 16:58:56 DEBUG - suiteXmlPath: "C:\Users\Admin\eclipse-workspace\myHR\Paralleltestng.xml"
+2025-12-04 16:58:57 INFO  - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\myHR\Paralleltestng.xml
+
+2025-12-04 16:59:27 INFO  - Display Balance After Select PL = 12
+2025-12-04 16:59:27 INFO  - Leave Details Table PL Leave Balance = 12
+2025-12-04 16:59:27 INFO  - After Select leave type Leave Balance Display Correct
+2025-12-04 17:07:21 DEBUG - suiteXmlPath: "C:\Users\Admin\eclipse-workspace\myHR\Paralleltestng.xml"
+2025-12-04 17:07:22 INFO  - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\myHR\Paralleltestng.xml
+
+2025-12-04 17:14:35 DEBUG - suiteXmlPath: "C:\Users\Admin\AppData\Local\Temp\testng-eclipse-492691189\testng-customsuite.xml"
+2025-12-04 17:14:36 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 13 ms.
+2025-12-04 17:14:36 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 17 ms.
+2025-12-04 17:14:36 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 17:14:36 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2025-12-04 17:14:36 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 17:14:36 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 17:14:36 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 17:14:36 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 17:14:36 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 17:14:36 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 17:14:36 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 17:14:36 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 17:14:36 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 17:14:36 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 17:14:36 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 17:14:36 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 17:14:36 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 17:14:36 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 17:14:36 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 17:14:36 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 17:14:36 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 17:14:36 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 17:14:36 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 17:14:36 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 17:14:36 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 17:14:36 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 11 ms.
+2025-12-04 17:14:36 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 17:14:36 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 17:14:36 INFO  - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-04 17:14:36 INFO  - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-04 17:14:36 INFO  - [TestNG] Running:
+  C:\Users\Admin\AppData\Local\Temp\testng-eclipse-492691189\testng-customsuite.xml
+
+2025-12-04 17:14:37 INFO  - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+2025-12-04 17:14:48 INFO  - Display Balance After Select PL = 12
+2025-12-04 17:14:48 INFO  - Leave Details Table PL Leave Balance = 12
+2025-12-04 17:14:48 INFO  - After Select leave type Leave Balance Display Correct
+2025-12-04 17:15:00 INFO  - [TestNG] Time taken by org.testng.reporters.jq.Main@649f25f3: 341 ms
+2025-12-04 17:15:00 INFO  - [TestNG] Time taken by org.testng.reporters.FailedReporter@bf75b5c: 1 ms
+2025-12-04 17:15:00 INFO  - [TestNG] Time taken by org.testng.reporters.XMLReporter@20d33ea: 15 ms
+2025-12-04 17:15:00 INFO  - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@6707a4bf: 7 ms
+2025-12-04 17:15:00 INFO  - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@5dfe23e8: 5 ms
+2025-12-04 17:15:00 INFO  - [TestNG] Time taken by org.testng.internal.ExitCodeListener@583fb274: 0 ms

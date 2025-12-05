@@ -28,7 +28,7 @@ public class Loginpage extends BaseTest {
 	LoginPage LP;
 	ExtentReports extent;
 	ExtentTest test;
-	String reportpath = "C\\Reports\\myHR\\LoginPage.html";
+	String reportpath = "C:\\Reports\\myHR\\LoginPage.html";
 
 	@BeforeSuite
 	public void setupReport() {
@@ -65,12 +65,12 @@ public class Loginpage extends BaseTest {
 
 	}
 	
-	@Test(enabled = false)
+	@Test()
 	public void LoginwithInvalidUsernameValidPasswrd() {
 	     test = extent.createTest("Verify Login With Invalid username And Valid Passwrod");
 	     LP.Login("27000", "62abce");
 	     
-	    WebElement errormsg = driver.findElement(By.xpath("//span[contains(text(),'User not exists ')]"));
+	    WebElement errormsg = driver.findElement(By.xpath("//span[contains(text(),'User is Inactive ')]"));
 	    
 	    try {
 			Assert.assertTrue(errormsg.isDisplayed() , "Error Message User Should Not Exist Not Display ");
@@ -81,7 +81,7 @@ public class Loginpage extends BaseTest {
 		}
 	}
 	
-	@Test(enabled = false)
+	@Test()
 	public void LoginWithValidEmployeeecodeandinvalidpasssword() {
 		test = extent.createTest("Verify Login With Valid Employee Code And Invalid Password");
 		LP.Login("24738", "6215454ssd");
@@ -102,17 +102,16 @@ public class Loginpage extends BaseTest {
 	public void teardownReport() {
 		extent.flush();
 
-		try {
-			File reportfile = new File(reportpath);
-			if (reportfile.exists()) {
-				Desktop.getDesktop().browse(reportfile.toURI());
-				System.out.println("Extent Report Open Automatically On Defualt Browser");
-			} else {
-				System.out.println("Extent Report Not Open Automatically On Defualt Browser");
-			}
-		} catch (Exception e) {
-			System.out.println("Extent Report Not Open Automatically On Defualt Browser , Open Manually");
-		}
+		
+		  try { File reportfile = new File(reportpath); if (reportfile.exists()) {
+		  Desktop.getDesktop().browse(reportfile.toURI());
+		  System.out.println("Extent Report Open Automatically On Defualt Browser"); }
+		  else {
+		  System.out.println("Extent Report Not Open Automatically On Defualt Browser"
+		  ); } } catch (Exception e) { System.out.
+		  println("Extent Report Not Open Automatically On Defualt Browser , Open Manually"
+		  ); }
+		 
 
 	}
 

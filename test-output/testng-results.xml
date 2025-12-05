@@ -1,33 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-12-03T18:01:39 IST" name="MyHR Automation Suite" finished-at="2025-12-03T18:01:45 IST" duration-ms="5858">
+  <suite started-at="2025-12-04T17:14:37 IST" name="Default suite" finished-at="2025-12-04T17:14:58 IST" duration-ms="21906">
     <groups>
     </groups>
-    <test started-at="2025-12-03T18:01:39 IST" name="Login Functonality Test" finished-at="2025-12-03T18:01:45 IST" duration-ms="5858">
-      <class name="TestCase.ParameterLoginTest">
-        <test-method is-config="true" signature="setup()[pri:0, instance:TestCase.ParameterLoginTest@7eac9008]" started-at="2025-12-03T18:01:39 IST" name="setup" finished-at="2025-12-03T18:01:43 IST" duration-ms="3758" status="PASS">
+    <test started-at="2025-12-04T17:14:37 IST" name="Default test" finished-at="2025-12-04T17:14:58 IST" duration-ms="21906">
+      <class name="TestCase.LeaveandAttendance">
+        <test-method is-config="true" signature="setupReport()[pri:0, instance:TestCase.LeaveandAttendance@f0e995e]" started-at="2025-12-04T17:14:36 IST" name="setupReport" finished-at="2025-12-04T17:14:37 IST" duration-ms="762" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupReport -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestCase.LeaveandAttendance@f0e995e]" started-at="2025-12-04T17:14:37 IST" name="setup" finished-at="2025-12-04T17:14:43 IST" duration-ms="6381" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="Login(java.lang.String,java.lang.String)[pri:0, instance:TestCase.ParameterLoginTest@7eac9008]" started-at="2025-12-03T18:01:43 IST" name="Login" finished-at="2025-12-03T18:01:45 IST" duration-ms="2015" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[24118]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[62abce]]>
-              </value>
-            </param>
-          </params>
+        <test-method signature="CheckLeaveBalace()[pri:0, instance:TestCase.LeaveandAttendance@f0e995e]" started-at="2025-12-04T17:14:43 IST" name="CheckLeaveBalace" finished-at="2025-12-04T17:14:48 IST" duration-ms="5269" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- Login -->
-      </class> <!-- TestCase.ParameterLoginTest -->
-    </test> <!-- Login Functonality Test -->
-  </suite> <!-- MyHR Automation Suite -->
+        </test-method> <!-- CheckLeaveBalace -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestCase.LeaveandAttendance@f0e995e]" started-at="2025-12-04T17:14:48 IST" name="setup" finished-at="2025-12-04T17:14:52 IST" duration-ms="3939" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="NavigatePage()[pri:0, instance:TestCase.LeaveandAttendance@f0e995e]" started-at="2025-12-04T17:14:52 IST" name="NavigatePage" finished-at="2025-12-04T17:14:58 IST" duration-ms="6247" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigatePage -->
+        <test-method is-config="true" signature="teardownreport()[pri:0, instance:TestCase.LeaveandAttendance@f0e995e]" started-at="2025-12-04T17:14:59 IST" name="teardownreport" finished-at="2025-12-04T17:15:00 IST" duration-ms="1080" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardownreport -->
+      </class> <!-- TestCase.LeaveandAttendance -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>

@@ -13,7 +13,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 public class BaseTest {
 	
-	public WebDriver driver ;
+	protected WebDriver driver ;
 	public WebDriverWait wait ;
 	
 	public void Setup() {

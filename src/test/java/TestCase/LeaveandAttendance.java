@@ -43,6 +43,8 @@ public class LeaveandAttendance extends BaseTest {
 			extent.setSystemInfo("Environment", "QA");
 	   }
 	   
+	   
+	   
 	   @BeforeMethod
 	   public void setup () {
 		   Setup();
@@ -50,7 +52,7 @@ public class LeaveandAttendance extends BaseTest {
 		   LA = new LeaveAndAttendacePage(driver);
       }
 	   
-	   @Test(enabled = false)
+	   @Test()
 	   public void NavigatePage() throws InterruptedException {
 		   test = extent.createTest("Verify Leave And Attendance Page Open Successfully");
 		   LA.NavigatePage();
