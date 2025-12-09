@@ -63,10 +63,11 @@ public class LeaveAndAttendacePage {
 	
 	}
 	
-	private void type(WebElement element , String text) {
-		wait.until(ExpectedConditions.visibilityOf(element)).clear();
-			element.sendKeys(text);	
-	}
+	/*
+	 * private void type(WebElement element , String text) {
+	 * wait.until(ExpectedConditions.visibilityOf(element)).clear();
+	 * element.sendKeys(text); }
+	 */
 	
 	private void typeandenter(WebElement element ,String text) {
 		wait.until(ExpectedConditions.visibilityOf(element)).clear();

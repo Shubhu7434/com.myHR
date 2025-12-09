@@ -7,10 +7,10 @@
       <class name="TestCase.LeaveandAttendance">
         <methods>
           <include name="CheckLeaveBalace"/>
+          <include name="Setup"/>
           <include name="setupReport"/>
-          <include name="setup"/>
-          <include name="setup"/>
           <include name="NavigatePage"/>
+          <include name="initPage"/>
           <include name="teardownreport"/>
         </methods>
       </class> <!-- TestCase.LeaveandAttendance -->
@@ -21,11 +21,10 @@
     <classes>
       <class name="TestCase.LeaveandAttendance">
         <methods>
-          <include name="CheckLeaveBalace"/>
+          <include name="Setup"/>
           <include name="setupReport"/>
-          <include name="setup"/>
-          <include name="setup"/>
           <include name="NavigatePage"/>
+          <include name="initPage"/>
           <include name="teardownreport"/>
         </methods>
       </class> <!-- TestCase.LeaveandAttendance -->

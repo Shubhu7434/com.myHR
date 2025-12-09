@@ -10,14 +10,22 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
+import org.testng.annotations.BeforeClass;
+import org.testng.annotations.Optional;
+import org.testng.annotations.Parameters;
+
+import Utilities.DriverFactory;
 
 public class BaseTest {
 	
-	protected WebDriver driver ;
+	protected  WebDriver driver ;
 	public WebDriverWait wait ;
 	
-	public void Setup() {
-		driver = new ChromeDriver();
+	@Parameters("browser")
+	@BeforeClass(alwaysRun = true)
+	public void Setup(@Optional("chrome") String browser) {
+		new DriverFactory();
+		driver = DriverFactory.initDriver(browser);
 		driver.manage().window().maximize();
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(20));
 	}

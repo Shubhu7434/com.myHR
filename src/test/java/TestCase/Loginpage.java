@@ -38,8 +38,7 @@ public class Loginpage extends BaseTest {
 	}
 
 	@BeforeMethod
-	public void setup() {
-		Setup();
+	public void initpage() {
 		LP = new LoginPage(driver);
 		driver.get("http://192.168.21.94:8023/");
 	}

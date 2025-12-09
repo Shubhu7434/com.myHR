@@ -23,8 +23,6 @@ public class ScreenshotUtiles {
         FileUtils.copyFile(src, dest);
         return path;
         
-        
-        
-	}
+        }
 
 }
