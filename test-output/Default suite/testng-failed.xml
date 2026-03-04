@@ -5,7 +5,6 @@
     <classes>
       <class name="TestCase.LeaveandAttendance">
         <methods>
-          <include name="CheckLeaveBalace"/>
           <include name="Setup"/>
           <include name="setupReport"/>
           <include name="NavigatePage"/>

@@ -80,7 +80,7 @@ public class LeaveandAttendance extends BaseTest {
 		String UiBalance = leavebalance.getAttribute("value").trim();
 		log.info("Display Balance After Select PL = " + UiBalance);
 
-		// Get Leave Balance Form Leave Details Table
+		// Get Leave Balance Form Leave Details Table 
 		WebElement Balance = driver.findElement(By.xpath("//td[text()='PL']/following-sibling::td[3]"));
 		String GridBalnace = Balance.getText();
 		log.info("Leave Details Table PL Leave Balance = " + GridBalnace);
